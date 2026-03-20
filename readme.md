@@ -647,6 +647,7 @@
 - [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
 - [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks#readme) - Offensive research of systems and processes related to developing and deploying code.
 - [OpenID Connect](https://github.com/cerberauth/awesome-openid-connect#readme) - Identity standard and authentication protocol built on OAuth 2.0 for user identity assertion.
+- [AI Compliance](https://github.com/mmilovanovic87/awesome-ai-compliance) - Tools, frameworks, and resources for AI regulatory compliance — EU AI Act, NIST AI RMF, ISO/IEC 42001.
 
 ## Content Management Systems
 
